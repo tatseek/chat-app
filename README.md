@@ -33,7 +33,8 @@ A full-stack real-time chat application built with:
 ---
 
 ## Project Structure
-
+```bash
+/
 chat-app/
 ├── server/ # Backend source code
 │ ├── src/
@@ -56,7 +57,8 @@ chat-app/
 │ └── config.js
 ├── App.js
 ├── package.json
-└── ...
+
+```
 
 
 
