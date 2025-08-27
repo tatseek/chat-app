@@ -57,10 +57,7 @@ chat-app/
 │ └── config.js
 ├── App.js
 ├── package.json
-
 ```
-
-
 
 ---
 
